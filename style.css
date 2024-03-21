@@ -32,27 +32,19 @@ body {
 }
 
 h1 {
-    color:blueviolet;
+    color: blueviolet;
 }
 
 h2 {
     color: red;
     position: relative;
-    top: 100px
+    text-align: center;
+    top: 100px;
 }
 
-h4 {
-    color:aqua;
+h3 {
+    color: red;
     position: relative;
-    top: 200px
-}
-
-p1, p2, p3 {
-    color: greenyellow;
-}
-
-ul, li {
-    color: aqua;
-    position: relative;
-    top: 100px
+    text-align: center;
+    top: 200px;
 }
